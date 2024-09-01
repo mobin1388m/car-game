@@ -1,0 +1,33 @@
+body{
+    background-color: gray;
+    font-size: larger;
+}
+#canvas1{
+    background-color: ghostwhite;
+    border-radius: 30px;
+    width: 1504px;
+    height: 664px;
+    align-items: center;
+    border: 3px solid rgb(180, 176, 176);
+    display: flex;
+    margin-left: 5%;
+}
+.hidden {
+    display: none;
+}
+
+#score {
+    font-family: 'Press Start 2P', cursive;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#speed{
+    font-family: 'Press Start 2P', cursive;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
